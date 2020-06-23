@@ -5,7 +5,7 @@ import { greet } from "./components/index"
 const root = document.getElementById("app");
 
 const render = () => {
-	root.innerHTML = !state.userName ? 'Fetching user....' : state.userName
+	root.innerHTML = greet("Abhijeet!")
 }
 
 render()
