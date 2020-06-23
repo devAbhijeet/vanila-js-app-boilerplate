@@ -5,7 +5,7 @@ import { greet } from "./components/index"
 const root = document.getElementById("app");
 
 const render = () => {
-	root.innerHTML = greet("Abhijeet!")
+	root.innerHTML = greet("World!")
 }
 
 render()
