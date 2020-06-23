@@ -1,4 +1,4 @@
-//Rightful credit ==> https://gist.github.com/jochemstoel/856d5b2735c53559372eb7b32c44e9a6
+//Credit ==> https://gist.github.com/jochemstoel/856d5b2735c53559372eb7b32c44e9a6
 
 /**
  * Convenient shortcut 

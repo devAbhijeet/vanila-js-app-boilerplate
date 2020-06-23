@@ -1,4 +1,5 @@
-import "./styles.css";
+import './styles.css';
+import './dom/index'
 import { getUserInfo } from './services/index'
 import { greet } from "./components/index"
 
