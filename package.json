@@ -1,0 +1,23 @@
+{
+  "name": "vanilla-js-boiler-plate",
+  "version": "1.0.0",
+  "description": "Javascript app starter project",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Abhijeet yadav <dev.abhijeet10@gmail.com>",
+  "license": "MIT",
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "keywords": [
+    "javascript",
+    "starter"
+  ],
+  "devDependencies": {
+    "@babel/core": "7.10.3",
+    "parcel-bundler": "1.12.4"
+  }
+}
